@@ -1,11 +1,12 @@
-@import url("https://fonts.googleapis.com/css2?family=Open+Sans&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap");
+
 :root {
   --primary-color: #059669;
   --dark-gray: #6b7280;
   --off-white: #f3f4f6;
 }
 body {
-  font-family: "Open Sans", sans-serif;
+  font-family: "Noto Sans", sans-serif;
   margin: 0px;
 }
 /* spaces */
